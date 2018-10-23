@@ -1,0 +1,30 @@
+{
+  "name": "vue-cli-plugin-tabs-touch",
+  "version": "0.1.0",
+  "description": "tabs-touch plugin for vue-cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/list/vue-cli-plugin-tabs-touch.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin",
+    "tab",
+    "tabs",
+    "touch",
+    "tabs-touch"
+  ],
+  "author": "tabs-touch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/list/vue-cli-plugin-tabs-touch/issues"
+  },
+  "homepage": "https://github.com/list/vue-cli-plugin-tabs-touch#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
