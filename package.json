@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/list/vue-cli-plugin-tabs-touch.git"
+    "url": "git+https://github.com/pengdongliang/vue-cli-plugin-tabs-touch"
   },
   "keywords": [
     "vue",
@@ -19,9 +19,9 @@
   "author": "tabs-touch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/list/vue-cli-plugin-tabs-touch/issues"
+    "url": "https://github.com/pengdongliang/vue-cli-plugin-tabs-touch/issues"
   },
-  "homepage": "https://github.com/list/vue-cli-plugin-tabs-touch#readme",
+  "homepage": "https://github.com/pengdongliang/vue-cli-plugin-tabs-touch#readme",
   "publishConfig": {
     "access": "public"
   },
